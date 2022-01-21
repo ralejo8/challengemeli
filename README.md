@@ -21,3 +21,10 @@ GET: http://3.230.72.2:1426/challenge/stats/
 
 para ver la documentación del proyecto puede ingresar al siguiente url
 http://3.230.72.2:1426/challenge/swagger-ui.html
+
+# Requisitos
+instalar el jdk de java version 8. para ejecutar el proyecto se recomienda IDE para java eclipse
+el IDE sele debe intalar el la libreria de lombok para el manejo de los modelos
+
+# Ejecucion proyecto
+
